@@ -1,6 +1,6 @@
 # Monster Game Project
 
-Built with a basic implementation of Vue JS, this web app pits the user against a monster in a traditional RPG scenario. 
+Built with a basic implementation of Vue JS, this web app pits the user against a monster in a traditional RPG scenario. This was mainly a way to practice and implement Vue concepts that I recently learned about.
 
 ## How it works
 
